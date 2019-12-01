@@ -1,0 +1,162 @@
+Intel(R) MEInfo Version: 11.8.70.3626
+Copyright(C) 2005 - 2019, Intel Corporation. All rights reserved.
+
+
+
+
+Windows OS Version : 10.0
+
+FW Status Register1: 0x90000245
+FW Status Register2: 0x060B0506
+FW Status Register3: 0x00000020
+FW Status Register4: 0x00084000
+FW Status Register5: 0x00000000
+FW Status Register6: 0x40000000
+
+  CurrentState:                               Normal
+  ManufacturingMode:                          Disabled
+  FlashPartition:                             Valid
+  OperationalState:                           CM0 with UMA
+  InitComplete:                               Complete
+  BUPLoadState:                               Success
+  ErrorCode:                                  No Error
+  ModeOfOperation:                            Normal
+  SPI Flash Log:                              Not Present
+  FPF HW Source value:                        Not Applicable
+  ME FPF Fusing Patch Status:                 ME FPF Fusing patch NOT applicable
+  Phase:                                      ROM/Preboot
+  ICC:                                        Valid OEM data, ICC programmed
+  ME File System Corrupted:                   No
+  PhaseStatus:                                CALL_NEXT_MODULE
+  FPF and ME Config Status:                   Match
+FW Capabilities value is 0x31101140
+Feature enablement is 0x31101140
+Platform type is 0x41240321
+Found an Intel vPro Wireless device
+Intel(R) ME code versions:
+
+    Table Type 117 ( 0x 75 ) found, size of   0 (0x 00 ) bytes
+BIOS Version                                 G701VIK.311
+    Table Type 117 ( 0x 75 ) found, size of   0 (0x 00 ) bytes
+    Table Type   0 ( 0x 00 ) found, size of  73 (0x 49 ) bytes
+    Table Type   1 ( 0x 01 ) found, size of  91 (0x 5B ) bytes
+    Table Type   2 ( 0x 02 ) found, size of 117 (0x 75 ) bytes
+    Table Type   3 ( 0x 03 ) found, size of  88 (0x 58 ) bytes
+    Table Type  32 ( 0x 20 ) found, size of  22 (0x 16 ) bytes
+    Table Type  16 ( 0x 10 ) found, size of  25 (0x 19 ) bytes
+    Table Type  17 ( 0x 11 ) found, size of 112 (0x 70 ) bytes
+    Table Type  19 ( 0x 13 ) found, size of  33 (0x 21 ) bytes
+    Table Type   7 ( 0x 07 ) found, size of  29 (0x 1D ) bytes
+    Table Type   4 ( 0x 04 ) found, size of 186 (0x BA ) bytes
+    Table Type  10 ( 0x 0A ) found, size of 158 (0x 9E ) bytes
+    Table Type  11 ( 0x 0B ) found, size of  66 (0x 42 ) bytes
+    Table Type  12 ( 0x 0C ) found, size of 128 (0x 80 ) bytes
+    Table Type  20 ( 0x 14 ) found, size of  37 (0x 25 ) bytes
+    Table Type 130 ( 0x 82 ) found, size of  22 (0x 16 ) bytes
+MEBx Version                                 0.0.0.0000
+GbE Version                                  Unknown
+Vendor ID                                    8086
+PCH Version                                  31
+FW Version                                   11.6.0.1136 H
+Security Version (SVN)                       1
+LMS Version                                  1907.12.0.1224
+MEI Driver Version                           1904.12.0.1208
+Wireless Hardware Version                    2.1.77
+Wireless Driver Version                      20.70.3.3
+
+FW Capabilities                              0x31101140
+
+        Intel(R) Capability Licensing Service - PRESENT/ENABLED
+        Protect Audio Video Path - PRESENT/ENABLED
+        Intel(R) Dynamic Application Loader - PRESENT/ENABLED
+        Service Advertisement & Discovery - NOT PRESENT
+        Intel(R) NFC Capabilities - NOT PRESENT
+        Intel(R) Platform Trust Technology - PRESENT/ENABLED
+
+Re-key needed                                False
+Platform is re-key capable                   True
+TLS                                          Disabled
+Last ME reset reason                         Firmware reset
+Local FWUpdate                               Enabled
+BIOS Config Lock                             Enabled
+GbE Config Lock                              Enabled
+Get flash master region access status...done
+Host Read Access to ME                       Disabled
+Host Write Access to ME                      Disabled
+Get EC region access status...done
+Host Read Access to EC                       Disabled
+Host Write Access to EC                      Disabled
+Protected Range Register Base #0 0x0
+Protected Range Register Limit #0 0x0
+Protected Range Register Base #1 0x0
+Protected Range Register Limit #1 0x0
+Protected Range Register Base #2 0x0
+Protected Range Register Limit #2 0x0
+Protected Range Register Base #3 0x0
+Protected Range Register Limit #3 0x0
+Protected Range Register Base #4 0x0
+Protected Range Register Limit #4 0x0
+SPI Flash ID 1                               EF4017
+SPI Flash ID 2                               Unknown
+BIOS boot State                              Post Boot
+OEM ID                                       00000000-0000-0000-0000-000000000000
+Capability Licensing Service                 Enabled
+OEM Tag                                      0x00001043
+Slot 1 Board Manufacturer                    0x00001043
+Slot 2 System Assembler                      0x00000000
+Slot 3 Reserved                              0x00000000
+M3 Autotest                                  Disabled
+C-link Status                                Disabled
+Independent Firmware Recovery                Disabled
+EPID Group ID                                0xFB6
+
+Retrieving Variable "LSPCON Port Configuration"
+LSPCON Ports                                 None
+
+Retrieving Variable "eDP Port Configuration"
+5K Ports                                     None
+OEM Public Key Hash FPF                      0000000000000000000000000000000000000000000000000000000000000000
+
+Retrieving Variable "OEM Public Key Hash"
+OEM Public Key Hash ME                       0000000000000000000000000000000000000000000000000000000000000000
+ACM SVN FPF                                  0x0
+KM SVN FPF                                   0x0
+BSMM SVN FPF                                 0x0
+GuC Encryption Key FPF                       0000000000000000000000000000000000000000000000000000000000000000
+
+Retrieving Variable "GuC Encryption Key"
+GuC Encryption Key ME                        0000000000000000000000000000000000000000000000000000000000000000
+
+                                             FPF                      ME
+                                             ---                      --
+Force Boot Guard ACM                         Disabled
+Retrieving Variable "Force Boot Guard ACM Enabled"
+          Disabled
+Protect BIOS Environment                     Disabled
+Retrieving Variable "Protect BIOS Environment Enabled"
+          Disabled
+CPU Debugging                                Enabled
+Retrieving Variable "CPU Debugging"
+          Enabled
+BSP Initialization                           Enabled
+Retrieving Variable "BSP Initialization"
+          Enabled
+Measured Boot                                Disabled
+Retrieving Variable "Measured Boot Enabled"
+          Disabled
+Verified Boot                                Disabled
+Retrieving Variable "Verified Boot Enabled"
+          Disabled
+Key Manifest ID                              0x0
+Retrieving Variable "Key Manifest ID"
+          0x0
+Enforcement Policy                           0x0
+Retrieving Variable "Error Enforcement Policy"
+          0x0
+PTT                                          Enabled
+Retrieving Variable "Intel(R) PTT Supported"
+          Enabled
+PTT Lockout Override Counter                 0x0
+EK Revoke State                              Not Revoked
+PTT RTC Clear Detection FPF                  0x0
+
